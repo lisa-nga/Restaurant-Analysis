@@ -1,5 +1,5 @@
 # Restaurant-Analysis
-![](https://github.com/lisa-nga/Restaurant-Analysis/blob/main/restaurant%20image.jpg)
+![](https://github.com/lisa-nga/Restaurant-Analysis/blob/main/Cover_page.jpg)
 ## Introduction
 This is a Power Bi project on the consumer analysis and ratings of some Mexican restaurants by real consumers from 2012. It includes additional information about each restaurant and their cuisines, and each consumer and their preferences.
 
@@ -11,6 +11,10 @@ The top overall rated restaurants had their prices falling in the medium price c
 5. If you were to invest in a restaurant, which characteristics would you be looking for?
 
 ## Visualization
+You can interact with the report [here](https://github.com/lisa-nga/Restaurant-Analysis/blob/main/Restaurant%20rating%20pbi.pbix)
+Page 1                        |       Page 2
+:---------------------------: | :---------------------:
+![](Insights_page.jpg)        |     ![](Insights_2.jpg)  
 
 ## Analysis
 1. What can you learn from the highest rated restaurants? Do consumer preferences have an effect on ratings?
@@ -54,6 +58,3 @@ Consider:
 - Quality: Restaurants with a focus on quality ingredients and authentic Mexican cuisines. Consider factors such as the restaurant's use of fresh ingredients, the quality of its meats and seafood, and the authenticity of its recipes.
 - Reputation: Restaurants that have positive reviews.
 - Quality of service.
-
-
-hhh
