@@ -10,6 +10,8 @@ The top overall rated restaurants had their prices falling in the medium price c
 4. Are there any demand & supply gaps that you can exploit in the market?
 5. If you were to invest in a restaurant, which characteristics would you be looking for?
 
+## Visualization
+
 ## Analysis
 1. What can you learn from the highest rated restaurants? Do consumer preferences have an effect on ratings?
 - 12 out of 130 restaurants have an overall rating between 18 to 36.
@@ -53,3 +55,5 @@ Consider:
 - Reputation: Restaurants that have positive reviews.
 - Quality of service.
 
+
+hhh
